@@ -1,0 +1,1 @@
+true: package(react,js_of_ocaml,js_of_ocaml.tyxml,js_of_ocaml.ppx,tyxml.ppx,lwt.ppx), bin_annot

@@ -1,0 +1,25 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
+
+#clock {
+  margin-top: 3em;
+}
+
+.time {
+  font-weight: bold;
+  font-size: 12em;
+}
+
+.finish {
+  font-weight: medium;
+  font-size: 6em;
+  color: #ccc;
+}
+
+.flash .time {
+  color: #f00;
+}
