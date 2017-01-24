@@ -7,15 +7,16 @@ body {
 
 #clock {
   margin-top: 3em;
+  display: inline-block;
 }
 
 .time {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 12em;
 }
 
 .finish {
-  font-weight: medium;
+  font-weight: 500;
   font-size: 6em;
   color: #ccc;
 }
