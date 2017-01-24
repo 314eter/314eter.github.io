@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/314eter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gtschlckx.be
+  * I am 314eter (https://keybase.io/314eter) on keybase.
+  * I have a public key with fingerprint 63E2 17CF 21D0 605B 226B  220F 379B AED5 5151 C9C9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e8f190b239d6c46704ddf5eb60b206ce8e495a7babe989dde440e4712bbb248f0a",
+            "fingerprint": "63e217cf21d0605b226b220f379baed55151c9c9",
+            "host": "keybase.io",
+            "key_id": "379baed55151c9c9",
+            "kid": "0101e8f190b239d6c46704ddf5eb60b206ce8e495a7babe989dde440e4712bbb248f0a",
+            "uid": "7c2494d3b8d3ae60ba9a399a7c988419",
+            "username": "314eter"
+        },
+        "service": {
+            "hostname": "gtschlckx.be",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485276564,
+    "expire_in": 157680000,
+    "prev": "ccd7c15adfee3e0b4d3c7a162dab1e54433b11fd6e35052c216372731dad5e78",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSFRRFB0ziwTpYVkWidwo/NC6577vGNUQREokFkGQNJzHnvGizox3
+7lgymRWZlCJlSYpERoT0U9qDMoIs+xATJNAPwwf6EVj0MrISys4V++uzA4fD3met
+tdfe7JcpiZ7khFsrS6DgQK8n4dXzppjncG3NlbhAwqxS8MaFEph/oJRB1PGXWEzw
+CiISERgBZIpEkk2mUUXTRYWxgApE4zlRo2CAYqpYJ5iAaZiMgaKIoOhIIoRIihEQ
+sZAtBKxQEOyIbYUcLqvJICGdBiTERE1UiSRp/IoBWTcJBqaqSEXUpCYnFoejLoOb
+IzgKW60wz/HAP2/vH/j/7Ds2L6dTSTEVJhODyRi4ADaxbJpYp6ZhKMitG4uCHcJl
+4LpCCjhgC1XZAk9WWBTcubqNLACCTpQWl9KS41sJcGrEDjthGi7lP8WOE/G6RKcy
+4iKPAfEvaPiJFWJ8ipxQAXbUCocEL+JI6liuKFIMVdI1VVOyBTgesWzwWy5C1TVD
+5MctAxVcklKmU6RiFgCQQSS8LapjpEkMEwSqosgyQSjANJBVUZWohDRZl3QZMcxU
+0A3B7ao8FBa8MreJg1wyagVD2InZIFS96C5a7ElI9ixJWuRulyd52Yq/O1dYv/T3
+lnM3s2uqtm9qGigffNOu+M5uggnt0B5fh5meurohdeX00yeNj/vrT/Tk5j4bp7N9
+e+fqM/Ka1dH2dNuXtaHseuPRQydbui9cXnN6Z9672aiz/9fN5UVTD+sGL+JVSe3W
+wfKxzl3V8eH3rRUtAzPjXXdynMG0/ITc8tv0dN27U/2xu0MDH7d0fihbW5xj13z/
+8i350de0tW0/uvJbRkf7f99oPT85svrzpN2cWBvvy0xZF2nbODk1PdGD6wo+OTse
+pA73bjty9UxHmh56ey3Dt9lpzmsivqrqkXhTf+LL9R37Bhsh+LphZve921mZY4sK
+uzZsu5Tzs2Aoq2+uuiur9T5S/wAhpkOx
+=E7It
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/314eter
+
+==================================================================
+
