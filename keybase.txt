@@ -4,60 +4,67 @@ https://keybase.io/314eter
 
 I hereby claim:
 
-  * I am an admin of http://gtschlckx.be
+  * I am an admin of https://gtschlckx.be
   * I am 314eter (https://keybase.io/314eter) on keybase.
-  * I have a public key with fingerprint 63E2 17CF 21D0 605B 226B  220F 379B AED5 5151 C9C9
+  * I have a public key with fingerprint AE3B B2FD E13E 0484 B330  28DE 9AC8 1030 EE3B FB36
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0101e8f190b239d6c46704ddf5eb60b206ce8e495a7babe989dde440e4712bbb248f0a",
-            "fingerprint": "63e217cf21d0605b226b220f379baed55151c9c9",
-            "host": "keybase.io",
-            "key_id": "379baed55151c9c9",
-            "kid": "0101e8f190b239d6c46704ddf5eb60b206ce8e495a7babe989dde440e4712bbb248f0a",
-            "uid": "7c2494d3b8d3ae60ba9a399a7c988419",
-            "username": "314eter"
-        },
-        "service": {
-            "hostname": "gtschlckx.be",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120314379c02bb0097910fb3321711acb0f65eebc54f157312e8fcf0264eff3ec420a",
+      "fingerprint": "ae3bb2fde13e0484b33028de9ac81030ee3bfb36",
+      "host": "keybase.io",
+      "key_id": "9ac81030ee3bfb36",
+      "kid": "0101d9f2e07fcc188da0397b66ca9d2dc9f8c59c38718df3314767ceda7f1a763cf00a",
+      "uid": "7c2494d3b8d3ae60ba9a399a7c988419",
+      "username": "314eter"
     },
-    "ctime": 1485276564,
-    "expire_in": 157680000,
-    "prev": "ccd7c15adfee3e0b4d3c7a162dab1e54433b11fd6e35052c216372731dad5e78",
-    "seqno": 3,
-    "tag": "signature"
+    "service": {
+      "hostname": "gtschlckx.be",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1613730971,
+  "expire_in": 157680000,
+  "prev": "e992387404be960f46af40652ebf856a1a7e4a4575876cbbf3bcd91290e9fa4f",
+  "seqno": 19,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.62
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMIlAnicrVJbSFRRFB0ziwTpYVkWidwo/NC6577vGNUQREokFkGQNJzHnvGizox3
-7lgymRWZlCJlSYpERoT0U9qDMoIs+xATJNAPwwf6EVj0MrISys4V++uzA4fD3met
-tdfe7JcpiZ7khFsrS6DgQK8n4dXzppjncG3NlbhAwqxS8MaFEph/oJRB1PGXWEzw
-CiISERgBZIpEkk2mUUXTRYWxgApE4zlRo2CAYqpYJ5iAaZiMgaKIoOhIIoRIihEQ
-sZAtBKxQEOyIbYUcLqvJICGdBiTERE1UiSRp/IoBWTcJBqaqSEXUpCYnFoejLoOb
-IzgKW60wz/HAP2/vH/j/7Ds2L6dTSTEVJhODyRi4ADaxbJpYp6ZhKMitG4uCHcJl
-4LpCCjhgC1XZAk9WWBTcubqNLACCTpQWl9KS41sJcGrEDjthGi7lP8WOE/G6RKcy
-4iKPAfEvaPiJFWJ8ipxQAXbUCocEL+JI6liuKFIMVdI1VVOyBTgesWzwWy5C1TVD
-5MctAxVcklKmU6RiFgCQQSS8LapjpEkMEwSqosgyQSjANJBVUZWohDRZl3QZMcxU
-0A3B7ao8FBa8MreJg1wyagVD2InZIFS96C5a7ElI9ixJWuRulyd52Yq/O1dYv/T3
-lnM3s2uqtm9qGigffNOu+M5uggnt0B5fh5meurohdeX00yeNj/vrT/Tk5j4bp7N9
-e+fqM/Ka1dH2dNuXtaHseuPRQydbui9cXnN6Z9672aiz/9fN5UVTD+sGL+JVSe3W
-wfKxzl3V8eH3rRUtAzPjXXdynMG0/ITc8tv0dN27U/2xu0MDH7d0fihbW5xj13z/
-8i350de0tW0/uvJbRkf7f99oPT85svrzpN2cWBvvy0xZF2nbODk1PdGD6wo+OTse
-pA73bjty9UxHmh56ey3Dt9lpzmsivqrqkXhTf+LL9R37Bhsh+LphZve921mZY4sK
-uzZsu5Tzs2Aoq2+uuiur9T5S/wAhpkOx
-=E7It
+yMNzAnicbZJ7UFRVAMZBUIMiKNGElnDuYkkRnPvY+wAZKy3GKKOYRdPa9dx7z929
+grvL7l1YXpaTxsOBwAQCQ4fAYBwnbUoqSQaCwsoRnVAe4RRkIw9Bmiankl07y+h/
+3X/O3HO+73e+75zTFxYUEBrYeC4CzKXcZgN/7Kl3B+xMOnS4iBDtcgGRXERko8UB
+5cjIpZmzVZlIJgBJAZpkaE6QACWKAAicQAJFpGmK5EgSSiJQWANComRgFNLA0SSF
+eEVSAMUySFFoJDEUgEQCoag2C3I6nKpNw1iIaFGkFBmRNAIMz2AeoHgZCVDiSUAD
+hNfxJiw2Wu0uvwOHE6ELJap2PId/zIvx/kd/LzcgZUGhEOAUSSJ5XoaAFjiRZSUo
+yJQsCQovGQSJ5jmSlxUad+RYTkIy5BQSciyNKyzmdi/iOIliBEamRV6mIWKBCAVI
+CwLkJIHnGVLwC13IaYO7EVZjGNKQkyhJIPBknioh/7n6i9wVWDSXZM2Rsj2JIsJW
+h9Ou2SV7Dl6xaprDlex3agUOvzQfiea7ELOo2mR8jNiRh5wu1W4jkkmslDTVTyVZ
+kuZofEFkAoE8DtWJzKpfYeBYHuDPvw/Kw0gkCBTuzQBGRAILFIaFCgNYA4VEhTew
+EPdHDGQMnIHnWEkUFVqUZIGkBIAEBTIK4a+Va7NjtoBzQgtmulSLDWpuJyJKvul5
+IzggMDRg2dIl/vcVEBoSce/VBUeG+xLfuZa+71bLjab+Huv2hinDrtUtD9kzxu6D
+OnVtpVkeGBowHi9ck7/+dceb7bfqFtqUjJGbw6XkCUtp3AsHdnkKP3VEJTp7ewYO
+TD+xLr+z6KM7XbnRsY3LLzS8nfFS7fWnPeabdlA3++X+lHjjeram17pBja/Z+FPW
+keVdfG/C8bmYEVPLnvcz3/3gWvWpyOzT3uYm93urvk4r1oc2edstz465da6OjiOt
+ja+89n1W8HDsxuj2soofHt66dPVztSUXH0wa9LGp1unKkd6YX2bMT82u3FwVo3db
+N5wcKv/8rD6svql1svuS8a1tj6xMCUuLX/t8VFnCsKV8b9qIzmovSu98ICp+L9t/
+8FBcTEj6mYip0qyunzMvaTULppmgQHezlvu4tCkk92R53m9jSb5JvXZdzNc1bK7Q
+bXF6B8czvHVM2Kgx9XL46RQxFZp+bzY9WsaNB312DrTPhxh922bGPh7NPDU9YerR
+rVnlmyibv1gr0G1t43/+9eLo9LEn+ybudJ/dMxbe9tWKPt8n573z665YgdJwdZLV
+FQy2crer9Ft3RL562efN6Ly/+sTRqu8uZMZOhTd9MWk8elCfU/HPsg9jfq22/H3s
+imnLM/1l3VLc7IrDzM5/Z+aHWqOrUjbNRXqWeODC7qtB4VRH8R/bi+G3gY/pz1eK
+6W37Cwsnzry8I6v+hk3O7v4P90fC4g==
+=aaQ9
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -66,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/314eter
 
 ==================================================================
-
